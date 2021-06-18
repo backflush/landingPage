@@ -22,7 +22,7 @@ And you can use this project as you wish!
 **Cloning the Repository**
 
 ```
-$ git@github.com:SouzaWesley/landingPage.git
+$ git clone git@github.com:SouzaWesley/landingPage.git
 
 $ cd landingPageClone
 ```
